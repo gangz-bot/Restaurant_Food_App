@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/updateMenuOption"
+        android:title="Update Menu"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/sortOrdersOption"
+        android:title="Sort Orders"
+        android:showAsAction="ifRoom" />
+</menu>
